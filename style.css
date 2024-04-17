@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+.js-result-para{
+  color: white;
+  font-size: 40px;
+  margin-top: 30px;
+}
+button{
+  margin-left: 8px;
+  width: 60px;
+  height: 60px;
+  border: 0 solid transparent;
+  border-radius: 50%;
+  background-color: #333333;
+  font-size: 25px;
+  color: white;
+  cursor: pointer;
+}
+.clear-button{
+  font-size: 15px;
+}
+.operator-buttons{
+  background-color: #FEA00A;
+}
